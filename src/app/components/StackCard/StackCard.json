@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Next.js",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+		"image": "next.svg"
+	},
+	{
+		"name": "React.js",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+		"image": "react.svg"
+	},
+	{
+		"name": "Node.js",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+		"image": "node.svg"
+	},
+	{
+		"name": "Tailwind CSS",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+		"image": "tailwind.svg"
+	}
+]
