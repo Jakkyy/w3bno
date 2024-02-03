@@ -9,12 +9,12 @@ export default function StackCard() {
 			<h1 className="font-bold text-4xl text-center mb-8 text-primary">
 				Le nostre tecnologie
 			</h1>
-			<div className="w-full justify-center flex flex-nowrap overflow-hidden">
+			<div className="justify-center flex flex-row flex-wrap overflow-hidden">
 				{data.map((element, i) => {
 					return (
 						<div
 							key={i}
-							className="border border-accent mb-10 rounded-2xl py-8 px-6 card items-center flex flex-col h-[415px] w-[340px] bg-tertiary mx-4">
+							className="border border-accent mb-10 rounded-2xl py-8 px-6 card items-center flex flex-col min-h-[415px] h-auto w-[340px] bg-tertiary mx-4">
 							<Image
 								src={`/assets/${element.image}`}
 								width={56}
