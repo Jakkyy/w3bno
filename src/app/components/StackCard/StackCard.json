@@ -18,5 +18,10 @@
 		"name": "Tailwind CSS",
 		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
 		"image": "tailwind.svg"
+	},
+	{
+		"name": "MongoDB",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+		"image": "mongodb.svg"
 	}
 ]
