@@ -5,10 +5,8 @@ import Image from "next/image";
 export default function StackCard() {
 	const carouselItems = ["Item 1", "Item 2", "Item 3", "Item 4"];
 	return (
-		<div className="my-10">
-			<h1 className="font-bold text-4xl text-center mb-8 text-primary">
-				Le nostre tecnologie
-			</h1>
+		<div className="mt-10 border-b border-accent">
+			<h1 className="text-main mb-8">Le nostre tecnologie</h1>
 			<div className="justify-center flex flex-row flex-wrap overflow-hidden">
 				{data.map((element, i) => {
 					return (

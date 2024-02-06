@@ -12,6 +12,7 @@ module.exports = {
 				secondary: "#181A30",
 				accent: "#FCF5E0",
 				tertiary: "#242533",
+				card: "#1D1E21",
 			},
 		},
 	},
